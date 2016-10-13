@@ -1,0 +1,19 @@
+{
+  "name": "tagged.js",
+  "version": "1.0.0",
+  "description": "Tag plugin for jQuery",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tags",
+    "javascript"
+  ],
+  "author": "anthony.ras",
+  "license": "ISC",
+  "dependencies": {
+    "jQuery": "^1.7.4",
+    "jquery": "^3.1.0"
+  }
+}
